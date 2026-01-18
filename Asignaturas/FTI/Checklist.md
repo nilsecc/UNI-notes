@@ -1,17 +1,17 @@
 
-- [ ] RSA
-- [ ] El Gammal
-- [ ] Diffie-Hellman
-- [ ] Merkle-Damgard
-- [ ] Bloom
-- [ ] Merkle Tree
+- [x] RSA
+- [x] El Gammal
+- [x] Diffie-Hellman
+- [x] Merkle-Damgard
+- [x] Bloom
+- [x] Merkle Tree
 - [ ] Teoria Hash
-- [ ] 3 pasos shamir
-- [ ] Compromis de bit
-- [ ] Compromis de bit de Pedersen
-- [ ] Compartició de secret llindar
-- [ ] Prova coneixement nul
-- [ ] Signatura a cegues
-- [ ] Signatura d'anell
+- [x] 3 pasos shamir
+- [x] Compromis de bit
+- [x] Compromis de bit de Pedersen
+- [x] Compartició de secret llindar
+- [x] Prova coneixement nul
+- [x] Signatura a cegues
+- [x] Signatura d'anell
 - [ ] Teoria Bitcoin
 
